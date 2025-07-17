@@ -24,6 +24,6 @@ SwiftSecond is a simple e-commerce front-end project built using **HTML**, **CSS
 
 **To run the project locally:**
 
-git clone https://github.com/your-username/swiftsecond.git
-cd swiftsecond
-open index.html (or double-click it)
+- git clone https://github.com/your-username/swiftsecond.git
+- cd swiftsecond
+- open login.html (or double-click it)
