@@ -20,3 +20,10 @@ SwiftSecond is a simple e-commerce front-end project built using **HTML**, **CSS
 - **JavaScript (ES6)** – DOM manipulation and cart functionality
 
 ---
+## 🚀 Getting Started
+
+**To run the project locally:**
+
+git clone https://github.com/your-username/swiftsecond.git
+cd swiftsecond
+open index.html (or double-click it)
